@@ -1,1 +1,2 @@
+#!/bin/bash
 mvn org.apache.maven.plugins:maven-dependency-plugin:2.8:get -Dartifact=org.biojava:biojava-structure:5.1.1
