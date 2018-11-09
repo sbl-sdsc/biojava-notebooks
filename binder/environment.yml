@@ -1,0 +1,6 @@
+name: biojava-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - matplotlib
