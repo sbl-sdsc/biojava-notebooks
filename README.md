@@ -1,7 +1,7 @@
 # BioJava in Jupyter Notebooks 
 [![GitHub License](https://img.shields.io/github/license/sbl-sdsc/biojava-notebooks.svg)](https://github.com/sbl-sdsc/biojava-notebooks/blob/master/LICENSE)
 
-The example notebooks demonstrate how to run BioJava applications in a Jupyter Notebook and Jupyter Lab. 
+This repository demonstrates how to run [BioJava](https://biojava.org/) applications in a Jupyter Notebook and Jupyter Lab.
 
 This project uses the Java Kernel developed by the [BeakerX project](http://beakerx.com), a collection of kernels that provide JVM support for Jupyter Notebook and Lab.
 
