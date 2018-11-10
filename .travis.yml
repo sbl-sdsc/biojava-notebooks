@@ -11,9 +11,10 @@ install:
   - conda update -q conda
   # Useful for debugging any issues with conda
   - conda info -a
-  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION beakerx labx ipywidgets matplotlib 
+  - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION ipywidgets matplotlib 
   - source activate test-environment
   - conda config --env --add pinned_packages 'openjdk>8.0.121'
+  - conda install -y -c conda-forge ipywidgets beakerx
 
 script:
   - python tests.py
