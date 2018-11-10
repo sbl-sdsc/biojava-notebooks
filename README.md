@@ -10,4 +10,5 @@ notebooks in your web browser using the Binder ([mybinder.org](https://mybinder.
 ---
 
 | Nbviewer | Jupyter Notebook | Jupyter Lab |
+| ---      | --               | ---         | 
 | [ProteinChainShapeAnalysis.ipynb](https://nbviewer.jupyter.org/github/sbl-sdsc/biojava-notebooks/blob/master/notebooks/ProteinChainShapeAnalysis.ipynb) | [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sbl-sdsc/biojava-notebooks/master?filepath=notebooks%2FProteinChainShapeAnalysis.ipynb) | [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sbl-sdsc/biojava-notebooks/master?urlpath=lab/tree/notebooks%2FProteinChainShapeAnalysis.ipynb) |
