@@ -1,3 +1,0 @@
-beakerx==1.2.0
-ipywidgets==7.4.0
-matplotlib==3.0.0
