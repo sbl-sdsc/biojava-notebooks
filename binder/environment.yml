@@ -2,7 +2,8 @@ name: biojava-notebooks
 channels:
   - conda-forge
 dependencies:
-  - openjdk=8.0.152
+  - openjdk=8.0.121
+  - py4j=0.10.7
   - beakerx
   - ipywidgets
   - matplotlib
